@@ -62,8 +62,30 @@ table {
 
 .title {
     margin-left: 400px;
+    color: rgb(67, 128, 122);
 }
 
 p {
     margin: 0 600px 0 400px;
+    text-align: justify;
+}
+
+#repartizare {
+    position: absolute;
+    left: 500px;
+}
+
+.graph {
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.one {
+    margin-left: 20px;
+    margin-right: 440px;
+}
+
+.two {
+    margin-right: 20px;
 }
